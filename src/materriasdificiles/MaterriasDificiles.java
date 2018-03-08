@@ -20,6 +20,13 @@ public class MaterriasDificiles extends MetodosSteve{
         // TODO code application logic here
         Random rand= new Random();
         int[][] matriz = new int[4][4];
+        int nota=rand.nextInt(10);
+        
+        
+        
+        
+        
+        
         
         for (int i = 0; i < 4; i++) {
             for (int j = 0; j < 4; j++) {
